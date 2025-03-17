@@ -1,6 +1,6 @@
 # Enabling Pseudo-haptics Using Proactive Haptics
 
-Hey there! We’re thrilled you’re here. Want to create pseudo-haptics? This is the quick start guide for using our hand prediction model combining with the haptic profiles in Unity. 
+Hey there! We’re thrilled you’re here. Want to create pseudo-haptics? This is the quick start guide for using our hand prediction model combined with the haptic profiles in Unity. 
 
 
 
@@ -17,9 +17,9 @@ If you use this work, please cite our paper:
 
 > [!TIP]
 >
-> The paper is not aviliable in the ACM Digital Library yet, the DOI will be updated once the paper is published. Feel free to read to preprint of the paper [here](paperPreprint.pdf). 
+> The paper is not aviliable in the ACM Digital Library yet, the DOI will be updated once the paper is published. Feel free to read the preprint of the paper [here](paperPreprint.pdf). 
 
-Intreasted in the prediction model? Detailed information of the prediction model can be found in the paper.
+Interested in the prediction model? Detailed information of the prediction model can be found in the paper.
 
 > ```
 > Nisal Menuka Gamage, Deepana Ishtaweera, Martin Weigel, and Anusha Withana. 2021.
@@ -39,7 +39,7 @@ Intreasted in the prediction model? Detailed information of the prediction model
 
 ### Quick Start:
 
-1. Add root folder to Unity project's Assets.
+1. Add the root folder to the Unity project's Assets.
 2. Designed for Meta Quest headsets (configurable for others).
 
 ## Contributors (From aid-lab)
